@@ -1,0 +1,10 @@
+ Volume in drive C is System
+ Volume Serial Number is EE69-E41D
+
+ Directory of C:\Users\shivva.naresh\OneDrive - Entain Group\Desktop\Personal\Git\MyFolder
+
+05/18/2023  11:02 PM    <DIR>          .
+05/18/2023  11:02 PM    <DIR>          ..
+05/18/2023  11:02 PM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  308,667,613,184 bytes free
